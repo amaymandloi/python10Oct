@@ -1,3 +1,2 @@
-t=tuple(("amay","akshat","aman","ajay","arpit"))
+t= set (("amay","ankit","arpit","ritesh"))
 print(t)
-

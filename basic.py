@@ -1,2 +1,2 @@
-t=("amay","akshat","lakhan")
-print(t)
+n={"amay","Akshat","atul"}
+print(n)
