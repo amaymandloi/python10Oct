@@ -1,0 +1,5 @@
+t=("amay","akshat","ajay","ravi")
+y=list(t)
+y.append("ankita")
+t=tuple(y)
+print(t)

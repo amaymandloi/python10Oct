@@ -1,0 +1,5 @@
+t=("ajay","amay","akshat","amol","ankit")
+y=list(t)
+y.remove("ajay")
+t=tuple(y)
+print(t)
